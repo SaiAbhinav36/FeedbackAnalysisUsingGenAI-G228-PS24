@@ -118,6 +118,3 @@ npm run dev
 5.  Wait for the analysis to complete. The results, including a summary, key phrases, and overall sentiment, will be displayed on the page.
 6.  Navigate to the "Search History" page from the navbar to view your previous analysis requests.
 
-## License
-
-This project is licensed under the MIT License.
