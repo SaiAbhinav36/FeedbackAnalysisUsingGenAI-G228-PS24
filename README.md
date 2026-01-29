@@ -4,7 +4,6 @@
 This project provides a full-stack solution for analyzing customer feedback from e-commerce websites. It leverages web scraping to gather reviews and utilizes generative AI and machine learning models to perform sentiment analysis, extract key phrases, and generate concise summaries.
 
 ## Features
-
 -   **User Authentication**: Secure registration and login functionality for users.
 -   **E-commerce Site Scraping**: Gathers product reviews from Amazon and Flipkart product pages.
 -   **Sentiment Analysis**: A PyTorch-based model predicts the sentiment (Positive, Negative, Neutral) for each review.
